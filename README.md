@@ -32,11 +32,11 @@
   
   <!-- Developer Stats Cards (Greninja Theme: Dark Blue & Cyan) -->
   <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=octocat&show_icons=true&bg_color=0D1117&title_color=48A5ED&text_color=E6EDF3&icon_color=00FFFF&border_color=48A5ED&border_radius=10&hide_border=false" height="180" alt="GitHub Stats" />
+    <a href="https://github.com/iamnht-dev">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamnht-dev&theme=tokyonight&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideNums=E6EDF3&currStreakNum=E6EDF3&sideLabels=E6EDF3&dates=E6EDF3&stroke=48A5ED&border=48A5ED&hide_border=false" height="180" alt="GitHub Streak" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=octocat&layout=compact&bg_color=0D1117&title_color=48A5ED&text_color=E6EDF3&border_color=48A5ED&border_radius=10&hide_border=false" height="180" alt="Top Languages" />
+    <a href="https://github.com/iamnht-dev">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamnht-dev&theme=tokyonight" height="180" alt="GitHub Stats" />
     </a>
   </div>
 </div>
