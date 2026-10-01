@@ -105,6 +105,9 @@ Currently preparing for:
   <a href="https://github.com/iamnht-dev">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://www.linkedin.com/in/nguyenhungthai/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <br/><br/>
   <b>Backend Developer • FPT University • AWS Cloud Learner</b>
   <br/>
