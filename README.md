@@ -81,9 +81,10 @@ Currently preparing for:
 
 ## 📊 GitHub Statistics
 
-> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
-> 
-> \- Martin Fowler
+<div align="center">
+  <h2><i>"Any fool can write code that a computer can understand.<br>Good programmers write code that humans can understand."</i></h2>
+  <p><b>— Martin Fowler —</b></p>
+</div>
 
 <br/>
 
@@ -98,7 +99,7 @@ Currently preparing for:
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="mailto:hungthai@example.com">
+  <a href="mailto:hungthai1804@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/iamnht-dev">
