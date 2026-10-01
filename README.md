@@ -82,8 +82,8 @@ Currently preparing for:
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <h2><i>"Any fool can write code that a computer can understand.<br>Good programmers write code that humans can understand."</i></h2>
-  <p><b>— Martin Fowler —</b></p>
+  <h2><i>"Make it work, make it right, make it fast."</i></h2>
+  <p><b>— Kent Beck —</b></p>
 </div>
 
 <br/>
