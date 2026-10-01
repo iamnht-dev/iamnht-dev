@@ -84,8 +84,8 @@ Currently preparing for:
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <h2><i>"Any fool can write code that a computer can understand.<br>Good programmers write code that humans can understand."</i></h2>
-  <p><b>— Martin Fowler —</b></p>
+  <h2><i>"Master the shadows of the Backend, so the Frontend can shine in the light."</i></h2>
+  <p><b>— The Code Ninja —</b></p>
 </div>
 
 <br/>
