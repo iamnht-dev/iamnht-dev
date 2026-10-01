@@ -15,7 +15,7 @@
 
 <!-- Developer Info (Terminal Style) -->
 <a href="#">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=00FFFF&background=0D1117&center=false&vCenter=true&width=500&height=120&lines=%3E_+$+whoami;+$+Hung+Thai;+$+Role:+Backend+Developer;+$+Skills:+C%23,+.NET,+AWS;+$+Status:+Ready+for+new+quests!" alt="Terminal Typing" style="border-radius: 10px; border: 1px solid #48A5ED; padding: 10px;"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=00FFFF&background=0D1117&center=false&vCenter=true&width=500&height=120&lines=%3E_+$+whoami;+$+Nguyen+Hung+Thai;+$+Role:+Backend+Developer;+$+Skills:+C%23,+.NET,+AWS;+$+Status:+Ready+for+new+quests!" alt="Terminal Typing" style="border-radius: 10px; border: 1px solid #48A5ED; padding: 10px;"/>
 </a>
 
 <br/><br/>
