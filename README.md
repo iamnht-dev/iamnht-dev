@@ -74,7 +74,6 @@ Currently preparing for:
 
 * ☁️ AWS Certified Cloud Practitioner
 * 🟢 ASP.NET Core & Entity Framework
-* 🐳 Docker & Containerization
 * 🏗️ Software Architecture & System Design
 * 🔄 CI/CD Pipelines
 
@@ -82,9 +81,9 @@ Currently preparing for:
 
 ## 📊 GitHub Statistics
 
-> *"There are only two kinds of languages: the ones people complain about and the ones nobody uses."*
+> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
 > 
-> \- Bjarne Stroustrup
+> \- Martin Fowler
 
 <br/>
 
